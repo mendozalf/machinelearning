@@ -1,0 +1,201 @@
+BusinessName,Industry,Location,AskingPrice,Revenue,CashFlow,YearEstablished,ReasonForSelling,Employees,Franchise
+Urban Retail Solutions,Retail,"Phoenix, AZ",284053,392632,85806,1986,Business Declining,6,No
+Quick Restaurant Solutions,Restaurant,"Phoenix, AZ",293962,1159806,554180,2018,Retirement,36,Yes
+Bright Cleaning Express,Cleaning,"Tampa, FL",898749,1923054,729601,1980,Burnout,45,No
+Elite Bakery Solutions,Bakery,"Denver, CO",850581,805889,257397,1986,Retirement,25,Yes
+Urban Bakery Co.,Bakery,"Atlanta, GA",815179,1063483,127839,2014,Retirement,25,Yes
+Golden Salon Solutions,Salon,"Las Vegas, NV",788797,245867,29552,1982,Burnout,50,No
+Quick Retail Pros,Retail,"Tampa, FL",341476,1050870,80010,2020,Moving,11,No
+Urban Bakery Hub,Bakery,"Tampa, FL",688720,1431645,629607,1990,Business Declining,47,Yes
+Smart Auto Express,Auto,"Chicago, IL",721088,1543180,494591,2015,Burnout,44,No
+Fresh Restaurant Center,Restaurant,"Tampa, FL",470651,661493,243847,1984,Burnout,37,No
+Smart Fitness Works,Fitness,"Chicago, IL",199811,655493,38846,1988,Burnout,48,No
+Smart Cleaning Center,Cleaning,"Las Vegas, NV",279974,390102,189768,2012,Health Issues,6,Yes
+Elite Retail Pros,Retail,"Boise, ID",675380,233227,99027,2004,Health Issues,39,No
+Fresh Salon Hub,Salon,"Portland, OR",764825,1955535,284633,2014,Moving,50,No
+Smart Retail World,Retail,"Denver, CO",525763,106805,14079,1996,Business Declining,49,Yes
+Premier Retail World,Retail,"Denver, CO",442077,1699101,225185,1990,Business Declining,50,Yes
+Fresh Bakery Hub,Bakery,"Chicago, IL",430612,1942813,363129,1999,Burnout,4,Yes
+Bright Retail Hub,Retail,"Austin, TX",847549,1217165,348280,1988,Burnout,43,No
+Smart Auto Solutions,Auto,"Denver, CO",615492,1683905,411504,1992,Moving,26,No
+Bright Pet Services Hub,Pet Services,"Portland, OR",309947,571224,103421,1984,Moving,2,Yes
+Quick Fitness Co.,Fitness,"Phoenix, AZ",290062,241348,78518,1982,Moving,5,Yes
+Premier Salon World,Salon,"Chicago, IL",808490,1950491,219961,2016,Business Declining,31,Yes
+Premier Pet Services Hub,Pet Services,"Salt Lake City, UT",151639,1481986,268928,2007,Moving,28,No
+Quick Pet Services Co.,Pet Services,"Phoenix, AZ",472179,1627174,349619,2001,Retirement,16,Yes
+Bright Fitness World,Fitness,"Portland, OR",492374,484802,123736,1997,Health Issues,16,Yes
+Quick Pet Services Co.,Pet Services,"Portland, OR",733823,1233695,497585,1980,Retirement,49,Yes
+Bright Auto Works,Auto,"Salt Lake City, UT",274130,1913303,267581,2005,Retirement,11,No
+Urban Restaurant Works,Restaurant,"Salt Lake City, UT",349105,987110,277778,2015,Health Issues,10,Yes
+Fresh Salon Co.,Salon,"Tampa, FL",834309,757676,239870,1983,Retirement,38,No
+Quick Auto World,Auto,"Phoenix, AZ",121849,1347879,95568,1984,Burnout,26,Yes
+Fresh Fitness Hub,Fitness,"Las Vegas, NV",489589,1478611,478175,2017,Business Declining,34,No
+Golden Salon Solutions,Salon,"Tampa, FL",328517,930023,117867,1988,Moving,30,No
+Bright Retail Hub,Retail,"Phoenix, AZ",126819,1227501,97307,1993,Business Declining,17,Yes
+Premier Bakery Center,Bakery,"Austin, TX",348830,430819,205500,2008,Business Declining,46,No
+Urban Restaurant Hub,Restaurant,"Portland, OR",970782,381628,184911,1996,Retirement,7,Yes
+Premier Salon Center,Salon,"Denver, CO",263487,1541785,637957,2020,Moving,33,No
+Quick Salon Pros,Salon,"Phoenix, AZ",919634,680240,127256,1982,Retirement,22,Yes
+Bright Salon Pros,Salon,"Boise, ID",638153,120278,11300,1987,Retirement,45,Yes
+Elite Restaurant Pros,Restaurant,"Atlanta, GA",183636,187721,67186,1999,Moving,3,No
+Quick Fitness Center,Fitness,"Tampa, FL",868011,1274160,316079,2006,Business Declining,48,Yes
+Elite Fitness Pros,Fitness,"Boise, ID",75990,476146,49955,2001,Health Issues,43,Yes
+Quick Salon Pros,Salon,"Boise, ID",964533,181211,49439,2010,Burnout,13,No
+Premier Bakery Solutions,Bakery,"Denver, CO",74813,1484189,97177,1992,Health Issues,22,No
+Golden Retail Pros,Retail,"Denver, CO",762526,1869285,858364,2014,Moving,2,Yes
+Urban Salon Co.,Salon,"Boise, ID",163668,1351100,224891,2007,Moving,47,No
+Quick Cleaning Pros,Cleaning,"Las Vegas, NV",993199,1309192,455775,1992,Moving,3,No
+Premier Restaurant Center,Restaurant,"Portland, OR",502248,246745,46948,2001,Business Declining,21,Yes
+Urban Salon Pros,Salon,"Portland, OR",392027,943894,268094,1998,Business Declining,9,Yes
+Elite Cleaning Express,Cleaning,"Salt Lake City, UT",475800,1249107,369760,1980,Moving,19,Yes
+Golden Cleaning Works,Cleaning,"Las Vegas, NV",513246,1027276,136817,1993,Business Declining,31,Yes
+Golden Retail Hub,Retail,"Denver, CO",908179,1675250,814695,1995,Moving,15,Yes
+Fresh Auto Solutions,Auto,"Phoenix, AZ",548216,1381934,551128,1984,Health Issues,27,Yes
+Smart Cleaning Solutions,Cleaning,"Chicago, IL",204739,1475853,697745,1980,Retirement,50,No
+Bright Fitness Co.,Fitness,"Boise, ID",634482,622606,281836,1987,Health Issues,9,No
+Smart Bakery Works,Bakery,"Chicago, IL",990790,433778,138399,2010,Health Issues,17,Yes
+Bright Salon Solutions,Salon,"Portland, OR",337936,1022479,475292,1984,Moving,16,No
+Quick Bakery World,Bakery,"Atlanta, GA",208157,584990,52544,2004,Burnout,46,Yes
+Smart Retail Center,Retail,"Salt Lake City, UT",618969,1077114,148848,2006,Retirement,14,No
+Fresh Cleaning Pros,Cleaning,"Las Vegas, NV",550149,112364,7905,2002,Moving,49,No
+Premier Cleaning Works,Cleaning,"Portland, OR",280080,672386,132055,2007,Health Issues,2,No
+Elite Bakery Works,Bakery,"Salt Lake City, UT",183827,1404967,315983,2014,Retirement,26,Yes
+Elite Retail Works,Retail,"Salt Lake City, UT",240556,205454,35360,1996,Health Issues,21,Yes
+Golden Pet Services Pros,Pet Services,"Atlanta, GA",341773,1677078,709289,2006,Moving,6,No
+Fresh Restaurant Center,Restaurant,"Portland, OR",285113,1463450,308113,1984,Retirement,49,Yes
+Fresh Fitness World,Fitness,"Tampa, FL",300132,364704,64341,2010,Retirement,37,Yes
+Golden Pet Services World,Pet Services,"Denver, CO",685324,1373490,404098,1987,Burnout,20,Yes
+Smart Restaurant Pros,Restaurant,"Denver, CO",799747,515927,58514,1984,Business Declining,45,Yes
+Quick Retail Co.,Retail,"Denver, CO",414069,1217247,500274,2007,Moving,5,No
+Bright Restaurant Hub,Restaurant,"Salt Lake City, UT",504582,859563,71814,2020,Health Issues,46,Yes
+Urban Cleaning Works,Cleaning,"Boise, ID",537455,1013465,500752,2017,Moving,21,Yes
+Bright Retail Solutions,Retail,"Denver, CO",836931,1074564,427150,2016,Business Declining,43,No
+Bright Bakery Center,Bakery,"Phoenix, AZ",240672,1122466,156496,1993,Moving,17,No
+Urban Salon Co.,Salon,"Las Vegas, NV",591722,500674,26277,1985,Burnout,47,No
+Premier Pet Services Works,Pet Services,"Portland, OR",727278,1592841,664147,2011,Health Issues,2,Yes
+Smart Salon Solutions,Salon,"Tampa, FL",371080,1492425,549340,2017,Moving,31,No
+Golden Cleaning Center,Cleaning,"Portland, OR",786996,1051572,397550,1997,Moving,17,Yes
+Golden Retail Hub,Retail,"Tampa, FL",828967,1223788,485931,1991,Burnout,14,No
+Urban Salon Hub,Salon,"Las Vegas, NV",923074,507094,42251,1998,Burnout,24,Yes
+Elite Salon Express,Salon,"Phoenix, AZ",97726,214349,45293,2015,Moving,45,Yes
+Fresh Pet Services Express,Pet Services,"Austin, TX",542198,1103936,112757,2008,Moving,12,Yes
+Quick Salon Hub,Salon,"Chicago, IL",470172,1131267,495943,1984,Business Declining,41,Yes
+Urban Auto Hub,Auto,"Boise, ID",310247,348410,115143,2015,Health Issues,39,Yes
+Bright Cleaning Express,Cleaning,"Chicago, IL",951950,1334226,265383,2007,Moving,37,Yes
+Premier Retail Express,Retail,"Tampa, FL",742509,270262,21242,1990,Burnout,12,Yes
+Smart Auto Works,Auto,"Phoenix, AZ",772858,1345312,255531,2010,Moving,3,Yes
+Bright Salon Hub,Salon,"Denver, CO",770775,589525,115742,1996,Business Declining,43,Yes
+Premier Cleaning World,Cleaning,"Austin, TX",328535,1833571,693681,1989,Retirement,4,Yes
+Urban Salon Works,Salon,"Las Vegas, NV",180394,1082930,364840,1999,Health Issues,18,No
+Fresh Pet Services Pros,Pet Services,"Austin, TX",820214,775957,348595,2018,Moving,2,Yes
+Fresh Fitness Express,Fitness,"Las Vegas, NV",654238,184371,48396,1991,Health Issues,34,No
+Smart Salon Works,Salon,"Boise, ID",145674,1085683,112712,2002,Health Issues,22,No
+Golden Retail Pros,Retail,"Boise, ID",777369,1139073,422550,1998,Health Issues,49,Yes
+Golden Pet Services Express,Pet Services,"Austin, TX",388977,343105,134618,2005,Business Declining,1,No
+Premier Cleaning Center,Cleaning,"Phoenix, AZ",702878,1686376,510254,2011,Health Issues,49,Yes
+Elite Fitness Express,Fitness,"Denver, CO",509398,1947269,772939,2011,Retirement,2,Yes
+Fresh Auto Pros,Auto,"Denver, CO",147736,571231,155493,1987,Health Issues,8,Yes
+Urban Pet Services Pros,Pet Services,"Denver, CO",925271,1111874,317139,2010,Burnout,30,Yes
+Elite Cleaning Hub,Cleaning,"Tampa, FL",339666,1720417,417017,2006,Moving,33,No
+Urban Restaurant Works,Restaurant,"Denver, CO",957291,411627,25289,2008,Business Declining,31,No
+Smart Bakery Works,Bakery,"Portland, OR",387408,1923686,189581,1992,Burnout,37,No
+Fresh Fitness Center,Fitness,"Salt Lake City, UT",830879,1091903,70038,2004,Health Issues,43,Yes
+Elite Pet Services Center,Pet Services,"Phoenix, AZ",961946,310479,104440,2008,Retirement,34,No
+Smart Restaurant World,Restaurant,"Boise, ID",128463,1084593,207656,1996,Moving,40,No
+Smart Retail Center,Retail,"Atlanta, GA",707246,1607259,448195,2011,Business Declining,3,Yes
+Premier Fitness Hub,Fitness,"Denver, CO",505052,306450,140478,2020,Retirement,29,Yes
+Fresh Salon Center,Salon,"Phoenix, AZ",884816,217690,35305,1998,Moving,24,No
+Smart Auto World,Auto,"Tampa, FL",228240,467147,109626,1985,Business Declining,25,Yes
+Elite Pet Services Solutions,Pet Services,"Las Vegas, NV",533550,1437782,560732,1996,Health Issues,17,Yes
+Elite Pet Services Hub,Pet Services,"Denver, CO",513187,824703,126145,2017,Moving,41,No
+Urban Salon Solutions,Salon,"Chicago, IL",453380,1889574,159935,2010,Retirement,16,No
+Urban Bakery Express,Bakery,"Las Vegas, NV",73005,1840714,332043,2005,Moving,1,Yes
+Premier Pet Services Center,Pet Services,"Denver, CO",279642,1435084,175868,1992,Business Declining,17,Yes
+Urban Retail Works,Retail,"Phoenix, AZ",84985,1315454,616111,2003,Burnout,6,No
+Elite Bakery Solutions,Bakery,"Salt Lake City, UT",188579,1749436,723661,2014,Moving,34,No
+Bright Auto Express,Auto,"Denver, CO",832824,1925354,645054,2001,Retirement,30,Yes
+Smart Auto Center,Auto,"Tampa, FL",144689,1758180,777392,2005,Retirement,17,Yes
+Urban Pet Services Pros,Pet Services,"Atlanta, GA",912367,1439134,592423,2003,Retirement,44,Yes
+Golden Pet Services Solutions,Pet Services,"Phoenix, AZ",729112,232575,31154,2020,Health Issues,45,No
+Elite Cleaning Co.,Cleaning,"Austin, TX",89019,738298,333453,2011,Retirement,7,Yes
+Bright Auto Center,Auto,"Salt Lake City, UT",753055,1658477,485442,2014,Health Issues,38,Yes
+Bright Cleaning Pros,Cleaning,"Austin, TX",343328,168611,69695,2003,Burnout,29,No
+Quick Fitness Center,Fitness,"Atlanta, GA",620913,1990994,902400,2021,Moving,4,No
+Quick Salon Works,Salon,"Tampa, FL",146126,1489926,287707,1993,Business Declining,2,Yes
+Elite Bakery Solutions,Bakery,"Tampa, FL",121942,1840254,183148,2015,Burnout,38,Yes
+Elite Fitness Co.,Fitness,"Atlanta, GA",340743,1900208,289916,1989,Burnout,35,No
+Fresh Auto World,Auto,"Austin, TX",65582,851288,206180,1995,Business Declining,21,Yes
+Fresh Auto World,Auto,"Denver, CO",827747,982818,410922,2013,Retirement,48,Yes
+Golden Pet Services Hub,Pet Services,"Chicago, IL",523962,1156626,505825,1994,Business Declining,3,No
+Fresh Pet Services Works,Pet Services,"Phoenix, AZ",938456,942252,50060,2007,Retirement,32,No
+Golden Retail World,Retail,"Austin, TX",118872,364642,102040,1997,Business Declining,41,No
+Urban Cleaning Works,Cleaning,"Las Vegas, NV",580108,1369672,325755,2007,Retirement,45,Yes
+Bright Fitness Solutions,Fitness,"Salt Lake City, UT",483914,810791,121576,2009,Health Issues,27,Yes
+Golden Bakery Express,Bakery,"Salt Lake City, UT",442483,420107,43665,2010,Retirement,6,Yes
+Quick Retail Center,Retail,"Salt Lake City, UT",901201,372871,75292,2015,Retirement,38,No
+Golden Retail Pros,Retail,"Salt Lake City, UT",960260,1612173,764668,1983,Moving,39,No
+Premier Bakery World,Bakery,"Austin, TX",738637,1111224,217179,1994,Retirement,23,No
+Premier Retail Pros,Retail,"Denver, CO",936209,1276430,361811,2019,Business Declining,44,Yes
+Elite Salon Express,Salon,"Phoenix, AZ",786833,1698888,622402,1999,Moving,23,Yes
+Smart Auto Hub,Auto,"Boise, ID",198766,1653924,353333,2020,Retirement,6,Yes
+Bright Cleaning Center,Cleaning,"Salt Lake City, UT",215055,876057,426904,1999,Moving,50,Yes
+Elite Restaurant Co.,Restaurant,"Boise, ID",756707,271088,130962,1997,Health Issues,43,No
+Bright Pet Services Pros,Pet Services,"Las Vegas, NV",336436,552080,90155,2012,Retirement,23,No
+Bright Retail Express,Retail,"Denver, CO",97623,562460,153980,2005,Business Declining,4,Yes
+Premier Fitness World,Fitness,"Denver, CO",851280,635863,117885,1998,Moving,8,Yes
+Elite Pet Services World,Pet Services,"Salt Lake City, UT",448676,1216906,216826,1994,Business Declining,36,No
+Fresh Retail Pros,Retail,"Salt Lake City, UT",69651,1064174,70873,1984,Moving,37,No
+Urban Cleaning Hub,Cleaning,"Salt Lake City, UT",474707,143739,46615,2000,Burnout,40,No
+Smart Bakery Hub,Bakery,"Austin, TX",305135,1013679,279983,2017,Health Issues,34,Yes
+Golden Cleaning Solutions,Cleaning,"Denver, CO",399247,1733928,126863,1990,Retirement,33,Yes
+Golden Fitness World,Fitness,"Atlanta, GA",297745,315596,55352,1989,Moving,13,Yes
+Elite Auto Works,Auto,"Austin, TX",536490,1682187,771652,2016,Business Declining,29,No
+Bright Bakery Hub,Bakery,"Boise, ID",541699,1027377,162123,2020,Moving,18,Yes
+Quick Bakery Express,Bakery,"Portland, OR",534172,1047732,120701,1982,Retirement,24,No
+Smart Retail Works,Retail,"Austin, TX",658519,1262485,341191,1982,Health Issues,37,Yes
+Bright Bakery World,Bakery,"Las Vegas, NV",114879,1044815,515660,1986,Moving,46,Yes
+Premier Auto Works,Auto,"Phoenix, AZ",510767,1199051,190559,2013,Business Declining,11,No
+Smart Bakery Pros,Bakery,"Denver, CO",862085,809607,285354,2018,Retirement,41,No
+Quick Retail Pros,Retail,"Atlanta, GA",347949,628473,246819,2018,Burnout,22,Yes
+Urban Auto Pros,Auto,"Atlanta, GA",185215,1347891,211533,1985,Moving,36,No
+Quick Bakery Pros,Bakery,"Boise, ID",583188,858808,324369,1981,Moving,20,Yes
+Bright Fitness Solutions,Fitness,"Atlanta, GA",287547,388495,83721,1989,Retirement,19,Yes
+Elite Restaurant Pros,Restaurant,"Atlanta, GA",211745,440257,147282,1991,Business Declining,11,No
+Golden Restaurant Solutions,Restaurant,"Salt Lake City, UT",515776,1380511,462593,1998,Health Issues,15,Yes
+Premier Salon Center,Salon,"Chicago, IL",761256,1296256,377338,2008,Health Issues,50,No
+Smart Cleaning World,Cleaning,"Portland, OR",906572,518796,47018,2018,Burnout,17,Yes
+Quick Pet Services Hub,Pet Services,"Atlanta, GA",348910,275898,117501,1990,Moving,29,Yes
+Premier Cleaning Works,Cleaning,"Austin, TX",977601,833133,161920,1981,Health Issues,4,No
+Smart Bakery Hub,Bakery,"Tampa, FL",443124,570891,76461,1981,Moving,7,No
+Fresh Auto Express,Auto,"Boise, ID",920068,1090809,74555,1988,Health Issues,29,Yes
+Urban Retail Solutions,Retail,"Phoenix, AZ",925522,413565,130645,2015,Business Declining,34,No
+Premier Retail Express,Retail,"Denver, CO",177767,200137,71029,1995,Health Issues,41,No
+Bright Retail Co.,Retail,"Austin, TX",712652,1180821,67855,2016,Burnout,46,Yes
+Fresh Salon Center,Salon,"Salt Lake City, UT",302249,1296768,363668,2006,Burnout,43,Yes
+Fresh Bakery Pros,Bakery,"Austin, TX",965754,1085944,164979,1982,Health Issues,24,No
+Quick Restaurant Center,Restaurant,"Atlanta, GA",302838,1637088,557146,2020,Retirement,50,No
+Golden Auto Center,Auto,"Phoenix, AZ",903025,1448040,186022,1991,Health Issues,45,No
+Quick Auto Works,Auto,"Boise, ID",88780,715393,258201,1992,Retirement,13,Yes
+Smart Bakery Works,Bakery,"Denver, CO",315618,176799,39608,2021,Burnout,19,No
+Urban Restaurant Hub,Restaurant,"Atlanta, GA",888171,871792,411074,2007,Health Issues,48,No
+Elite Cleaning Works,Cleaning,"Atlanta, GA",775686,1143382,127926,2003,Business Declining,18,Yes
+Smart Cleaning World,Cleaning,"Austin, TX",621971,716072,145706,2000,Retirement,6,No
+Bright Salon Pros,Salon,"Denver, CO",224739,1546541,156298,2008,Moving,29,Yes
+Smart Bakery Express,Bakery,"Las Vegas, NV",720532,1759849,820286,1983,Retirement,43,No
+Elite Bakery Co.,Bakery,"Portland, OR",199715,1879788,836134,2018,Health Issues,3,Yes
+Golden Retail Center,Retail,"Tampa, FL",451451,1289598,214168,1982,Business Declining,10,No
+Bright Bakery Hub,Bakery,"Atlanta, GA",651800,388767,134899,2013,Moving,26,No
+Quick Salon Co.,Salon,"Tampa, FL",821411,490171,204768,2011,Business Declining,25,Yes
+Bright Salon Solutions,Salon,"Denver, CO",691599,698898,209557,2011,Burnout,8,Yes
+Elite Retail Works,Retail,"Chicago, IL",142055,1799769,518950,2000,Moving,46,Yes
+Elite Salon World,Salon,"Denver, CO",882250,858104,136295,2012,Burnout,8,Yes
+Bright Auto Co.,Auto,"Tampa, FL",428427,1261867,115960,2016,Moving,30,Yes
+Urban Retail Pros,Retail,"Austin, TX",801759,1607578,729433,2010,Business Declining,27,No
+Golden Retail Hub,Retail,"Boise, ID",521832,1076923,490202,2013,Moving,9,Yes
+Fresh Auto Hub,Auto,"Salt Lake City, UT",593269,420896,140956,1999,Burnout,11,No
+Urban Fitness Hub,Fitness,"Atlanta, GA",312778,511674,103646,2020,Business Declining,18,Yes
+Quick Salon World,Salon,"Las Vegas, NV",670556,1317703,272954,1989,Burnout,43,No
+Quick Restaurant Co.,Restaurant,"Phoenix, AZ",722612,1716951,646741,2016,Moving,42,Yes
+Fresh Cleaning Works,Cleaning,"Las Vegas, NV",982180,1415258,642102,2014,Moving,42,No
+Smart Pet Services Express,Pet Services,"Tampa, FL",525575,253035,113660,1983,Burnout,29,No
+Premier Pet Services Center,Pet Services,"Chicago, IL",686129,401295,160896,2000,Moving,47,No
